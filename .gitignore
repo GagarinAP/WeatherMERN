@@ -23,9 +23,9 @@ yarn-debug.log*
 yarn-error.log*
 
 backend/node_modules
-fronend/node_modules
+frontend/node_modules
 
 backend/package-lock.json
-fronend/package-lock.json
+frontend/package-lock.json
 
 .idea/
